@@ -1,0 +1,51 @@
+﻿<html>
+<head>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript">
+    var name = "I am Laruence";
+    function introduce() {
+      //  alert(this.name);
+    }
+    introduce();
+    var a={1:2, 3:4};
+    var b={1:2, 3:4};
+
+    //if (a[1]==b[1])
+    //    alert(this.introduce);
+    for (var i in a){
+        console.log(a[i]);
+    }
+    //var str = "{"title":"三星手机GT-I9008L\n","price":"三星手机GT-I9008L\n","image":"http://img.alicdn.com/bao/uploaded/i3/TB1tnF8KVXXXXX9XpXXCagi8VXX_120x120.jpg","des":"1.使用时长：半年2.新旧程度描述：9成新3.存在的问题：无4.到手时间/有效期/适用条件：2013年&n...","pubTime":"1分钟前","nick":"万万美...","location":"江西南昌"}";
+    var item = {
+        "title": "lg km380 手机",
+        "price": "lg km380 手机",
+        "image": "http://img.alicdn.com/bao/uploaded/i2/TB1KAF_KVXXXXarXVXXxPo89VXX_120x120.jpg",
+        "des": "真声。lgkm380手机正常使用待机2天2g支持移动联通网络充电和选择键有瑕疵裸机mp3效果不错收藏...",
+        "pubTime": "1分钟前"
+    }
+
+    localStorage.clear();
+    var str = JSON.stringify(item);
+    for (var i =0; i<15000; i++){
+        localStorage[i]=str;
+    }
+
+    if(window.localStorage)
+    {
+        var 剩余空间 = 1024 * 1024 * 5 - unescape(encodeURIComponent(JSON.stringify(localStorage))).length;
+
+        alert(剩余空间);
+    }
+    //alert(window.introduce);
+</script>
+
+</head>
+
+<body>
+	<div id="menu">
+
+
+	</div>
+</body>
+</html>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0256f2de-634b-4d9d-b491-beab114b83eb" name="Default" comment="" />
+    <ignored path="2cj.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2cj$xlwt.coverage" NAME="xlwt Coverage Results" MODIFIED="1470124131522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="2cj" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="show.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/show.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pro.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/pro.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="1" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/popup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="background.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/background.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="32" selection-start="162" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../githubTest/justTest/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="318" selection-end="319" vertical-scroll-proportion="0.33678755" vertical-offset="0" max-vertical-offset="579">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="10" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pic.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/pic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="34" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="23" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xlwt123.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xlwt123.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="33" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="600">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tips.txt" />
+        <option value="$PROJECT_DIR$/js/background.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/js/common.js" />
+        <option value="$PROJECT_DIR$/js/popup.js" />
+        <option value="$PROJECT_DIR$/pic.html" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/js/show.js" />
+        <option value="$PROJECT_DIR$/show.html" />
+        <option value="$PROJECT_DIR$/js/pic.js" />
+        <option value="$PROJECT_DIR$/show/index.html" />
+        <option value="$PROJECT_DIR$/js/itemshow.js" />
+        <option value="$PROJECT_DIR$/js/inject/item.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/xlwt.py" />
+        <option value="$PROJECT_DIR$/xlwt123.py" />
+        <option value="$PROJECT_DIR$/../../sample/test - 本地存储/pro.js" />
+        <option value="$PROJECT_DIR$/../../../githubTest/justTest/test.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1553" />
+    <option name="y" value="102" />
+    <option name="width" value="1366" />
+    <option name="height" value="746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2cj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pyOffice" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js/inject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.xlwt">
+    <configuration default="false" name="xlwt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xlwt123.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2cj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.xlwt" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.xlwt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0256f2de-634b-4d9d-b491-beab114b83eb" name="Default" comment="" />
+      <created>1467263210135</created>
+      <updated>1467263210135</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1553" y="102" width="1366" height="746" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26586103" sideWeight="0.8501529" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26586103" sideWeight="0.14831804" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="372" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/inject/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="21" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/inject/image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="12" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="60" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ga.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.zedstate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="8" selection-start="1709" selection-end="1709" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="5" selection-start="251" selection-end="251" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/inject/image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="35" selection-start="594" selection-end="594" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="258" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/jquery-2.0.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="634" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/cs1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/navigation_collector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="28" selection-start="670" selection-end="689" vertical-scroll-proportion="0.0" vertical-offset="6943" max-vertical-offset="7590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="10" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebNavigation Tech Demo/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="372" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/itemshow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="42" selection-start="1618" selection-end="1618" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="34" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/inject/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="21" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="23" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xlwt123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/pro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sample/test - 本地存储/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="162" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../githubTest/justTest/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="318" selection-end="319" vertical-scroll-proportion="0.33678755" vertical-offset="0" max-vertical-offset="579">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

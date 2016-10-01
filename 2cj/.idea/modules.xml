@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2cj.iml" filepath="$PROJECT_DIR$/.idea/2cj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebNavigation Tech Demo/.idea/WebNavigation Tech Demo.iml" filepath="$PROJECT_DIR$/../WebNavigation Tech Demo/.idea/WebNavigation Tech Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sample/test - 本地存储/.idea/test - 本地存储.iml" filepath="$PROJECT_DIR$/../../sample/test - 本地存储/.idea/test - 本地存储.iml" />
+    </modules>
+  </component>
+</project>
+
