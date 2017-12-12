@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"browser_action": {
+		"default_icon": "images/logo_19.png",
+		"default_title": "abc",
+		"default_popup": "popup.html"
+	},
+	"default_locale": "zh_CN",
+	"description": "abc",
+	"icons": {
+		"128": "images/logo_128.png",
+		"16": "images/logo_16.png",
+		"32": "images/logo_32.png",
+		"48": "images/logo_48.png"
+	},
+	"content_scripts": [
+        {
+            "matches": ["*://*/*"],
+            "js": ["js/info.js", "js/jquery.min.js"]
+        }
+    ],
+	"name": "abc",
+	"web_accessible_resources": ["images/logo_19.png"],
+	"permissions": [ "cookies", "tabs", "notifications", "contextMenus", "http://*/*", "https://*/*" ],
+	"version": "1.1.0"
+}
