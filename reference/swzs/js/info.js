@@ -20,6 +20,9 @@ setInterval(function(){
 },
 1000);
 
+// axios.defaults.baseURL = 'http://119.29.186.141:8888';
+// axios.defaults.baseURL = 'http://127.0.0.1:6666';
+
 setInterval(function(){ 
 	console.log("upload")
 	console.log(list)
@@ -28,12 +31,23 @@ setInterval(function(){
 		console.log(data)
 	})
 	*/
-	$.post("http://127.0.0.1:2222/upload", {'data': JSON.stringify(list) }, function(data, status){
+	$.post("http://119.29.186.141:3333/upload", {data: JSON.stringify(list) }, function(data, status){
+	// $.post("http://119.29.186.141:3333/upload", {data: '好吃点' }, function(data, status){
+	/// $.post("http://127.0.0.1:3333/upload", {'data': '好吃点' }, function(data, status){
 		console.log(data)
 	})
+
+	/*
+	axios.post('/upload', {
+		data: JSON.stringify(list)
+	  })
+	  .then(function (response) {
+		console.log(response);
+	  })
+	  */
 	list = []
 },
-5000);
+20000);
 /*
 console.log(document.getElementsByClassName("user-name"))
 
